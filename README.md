@@ -1,5 +1,4 @@
 # Crave_Eat_Repeat_Online_Food_Delivery_Portal
-**Project Title:** Crave Eat Repeat - Online Food Ordering System
 
 **Project Overview:**
 
